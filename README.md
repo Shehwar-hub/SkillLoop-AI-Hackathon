@@ -1,10 +1,3 @@
-<div align="center">
-<< HEAD
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
-
-
 # SkillLoop AI
 
 **An adaptive practice, feedback and mastery loop for working learners with irregular schedules.**
@@ -138,4 +131,4 @@ npm run dev
 - Fahad Ali
 
 Built for **Build for Campus 2026**.
->>>>>>> 3ca14863078f6c2da79826329f2ac297fd6574d2
+
