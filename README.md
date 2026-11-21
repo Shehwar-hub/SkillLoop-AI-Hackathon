@@ -132,3 +132,40 @@ npm run dev
 
 Built for **Build for Campus 2026**.
 
+
+## Project Screenshots
+
+### Screenshot 1
+![Screenshot 1](<Screenshot 2026-11-21 190715.png>)
+
+### Screenshot 2
+![Screenshot 2](<Screenshot 2026-11-21 190905.png>)
+
+### Screenshot 3
+![Screenshot 3](<Screenshot 2026-11-21 191115.png>)
+
+### Screenshot 4
+![Screenshot 4](<Screenshot 2026-11-21 191216.png>)
+
+### Screenshot 5
+![Screenshot 5](<Screenshot 2026-11-21 191306.png>)
+
+### Screenshot 6
+![Screenshot 6](<Screenshot 2026-11-21 191338.png>)
+
+### Screenshot 7
+![Screenshot 7](<Screenshot 2026-11-21 191442.png>)
+
+### Screenshot 8
+![Screenshot 8](<Screenshot 2026-11-21 191541.png>)
+
+### Screenshot 9
+![Screenshot 9](<Screenshot 2026-11-21 191620.png>)
+
+### Screenshot 10
+![Screenshot 10](<Screenshot 2026-11-21 191707.png>)
+
+### Screenshot 11
+![Screenshot 11](<Screenshot 2026-11-21 191751.png>)
+
+
